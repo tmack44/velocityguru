@@ -41,5 +41,8 @@ gem 'unicorn'
 #Required for Heroku
 gem 'rails_12factor', group: :production
 
+#For authenication
+gem 'devise'
+
 ruby "2.1.2"
 
